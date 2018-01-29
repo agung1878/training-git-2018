@@ -1,0 +1,5 @@
+#Perintah GIT#
+
+- git init "nama folder(project)" = membuat project baru
+- git status = ....
+- git add = menambah file pada project
