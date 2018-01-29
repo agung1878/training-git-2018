@@ -1,6 +1,8 @@
 #Perintah GIT#
 
 - git init "nama folder(project)" = membuat project baru
-- git status = ....
+- git status = melihat status working folder
 - git add = menambah file pada project
-- git diff = melihat/perbandingan perubahan pada project kita
+- git diff = perbedaan perubahan pada project kita
+- git log = melihat history perubahan
+- git log --oneline = melihat history perubahan pada satu baris
