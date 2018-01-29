@@ -3,3 +3,4 @@
 - git init "nama folder(project)" = membuat project baru
 - git status = ....
 - git add = menambah file pada project
+- git diff = melihat/perbandingan perubahan pada project kita
