@@ -6,3 +6,7 @@
 - git diff = perbedaan perubahan pada project kita
 - git log = melihat history perubahan
 - git log --oneline = melihat history perubahan pada satu baris
+- git reset = mengembalikan posisi staging ke posisi repo/working folder
+- git chek = .........
+- git add -p = menambahkan file perfile
+- git reset --hard = mengembalikan posisi ke commit terakhir
