@@ -10,3 +10,4 @@
 - git chek = .........
 - git add -p = menambahkan file perfile
 - git reset --hard = mengembalikan posisi ke commit terakhir
+- git push = 
